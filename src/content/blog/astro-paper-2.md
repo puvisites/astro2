@@ -101,7 +101,7 @@ REDIS 15 $
 
 web app 2 nos 6 $ dollar
 
-![Untitled](work%20f5a2170605884004b21cb50044636742/Untitled%201.png)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6ce4138f-05f4-4162-85ab-8024ce10a0f2%2FUntitled.png?id=d93bcd77-d6bf-4218-b4f6-113fdaf7ca91&table=block&spaceId=79001447-2af2-416f-851d-02aa5b522236&width=2000&userId=0eb707db-d671-44c4-b9be-f7ac33c34c2b&cache=v2)
 
 [https://app.sigle.io/login](https://app.sigle.io/login)
 
